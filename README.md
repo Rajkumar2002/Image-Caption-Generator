@@ -1,4 +1,4 @@
-# 🖼️ Image Caption Generator with Login
+# 🖼️ Image Caption Generator 
 
 ## 📌 Overview
 This project is a Streamlit-based web application that allows users to **register**, **log in**, and generate **textual captions for images** using a machine learning model (`ViT-GPT2`). Additionally, it includes **text-to-speech** functionality to read the caption aloud. It's a complete ML web app with authentication, model inference, and media interaction.
@@ -35,7 +35,7 @@ This project is a Streamlit-based web application that allows users to **registe
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-caption-generator.git
+git clone https://github.com/Rajkumar2002/image-caption-generator.git
 cd image-caption-generator
 ```
 
